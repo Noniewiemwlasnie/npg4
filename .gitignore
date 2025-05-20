@@ -1,2 +1,6 @@
 *.py
-kura.txt
+log/
+build/
+*.pdf
+*.tmp
+*.log
